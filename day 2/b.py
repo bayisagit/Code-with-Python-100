@@ -1,0 +1,7 @@
+num=(input("enter the two digit number:"))
+print(type(num))
+fi=str(num[0])
+la=str(num[1])
+print(type(la))
+n=int(fi) + int(la)
+print(n)
